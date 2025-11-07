@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ExAPI</string>
+    <string name="dog_fact">Novo facto 🐾</string>
 </resources>
