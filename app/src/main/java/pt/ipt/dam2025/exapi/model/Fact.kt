@@ -1,6 +1,6 @@
 package pt.ipt.dam2025.exapi.model
 
-class Model {
+class Fact {
 
     data class DogFactResponse(
         val data: List<DogFact>
